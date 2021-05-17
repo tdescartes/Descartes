@@ -2,3 +2,24 @@ body{
     background: red; 
 
 }
+
+title{
+    @font-face {
+        font-family: courier;
+    }
+
+}
+
+
+form.input{
+    margin: 45 45 px; 
+}
+
+
+
+
+
+
+footer{
+    text-align: center;
+    }
