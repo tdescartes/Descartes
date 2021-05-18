@@ -1,25 +1,9 @@
 body{
-    background: red; 
-
+    background-image: url("assets/images/backimage.jpeg"); 
+    background-size: cover; 
+    background-repeat: no-repeat;
 }
 
-title{
-    @font-face {
-        font-family: courier;
-    }
-
+.navbar{
+    color: #fff;
 }
-
-
-form.input{
-    margin: 45 45 px; 
-}
-
-
-
-
-
-
-footer{
-    text-align: center;
-    }
